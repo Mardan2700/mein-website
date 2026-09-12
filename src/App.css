@@ -147,27 +147,6 @@ h2 em {
   gap: 28px;
   margin-top: 42px;
 }
-.social-links {
-  display: flex;
-  gap: 24px;
-  margin-top: 30px;
-}
-.social-links a {
-  color: var(--muted);
-  font-size: 13px;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-.social-links a:hover {
-  color: var(--blue);
-}
-.social-links span {
-  color: var(--blue);
-  font-size: 17px;
-  margin-left: 5px;
-}
 .button {
   display: inline-flex;
   align-items: center;
@@ -665,9 +644,6 @@ footer a {
     align-items: start;
     flex-direction: column;
     gap: 22px;
-  }
-  .social-links {
-    flex-wrap: wrap;
   }
   h1 {
     font-size: 48px;

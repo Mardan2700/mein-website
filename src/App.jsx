@@ -52,10 +52,6 @@ function App() {
               <a className="button button-primary" href="#work">Meine Projekte <span>↓</span></a>
               <a className="text-link" href="mailto:mardan00@gmx.de">Lass uns sprechen <span>↗</span></a>
             </div>
-            <div className="social-links" aria-label="Profile und soziale Netzwerke">
-              <a href="https://github.com/Mardan2700" target="_blank" rel="noreferrer">GitHub <span>↗</span></a>
-              <a href="https://www.linkedin.com/in/mardan-ali-a79793398/" target="_blank" rel="noreferrer">LinkedIn <span>↗</span></a>
-            </div>
           </div>
           <div className="hero-note" aria-label="Profilfoto">
             <img className="profile-image" src={profileImage} alt="Porträt von Mardan Ali" />
